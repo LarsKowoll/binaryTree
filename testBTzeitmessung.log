@@ -1,0 +1,3 @@
+BT insertBT 100 Zufallszahlen Startzeit: 22.10 17:28:46,978|Endezeit: 22.10 17:28:46,978| Diff: 0 ms
+BT find 100 Zahlen Startzeit: 22.10 17:28:46,978|Endezeit: 22.10 17:28:46,978|  Diff: 0 ms
+BT deleteBT 50 Zahlen Startzeit: 22.10 17:28:46,978|Endezeit: 22.10 17:28:46,978|  Diff: 0 ms

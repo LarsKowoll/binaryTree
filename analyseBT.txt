@@ -1,0 +1,17 @@
+nalyseBT:test(250).
+Ausgaben beziehen sich auf die Rahmenbedingungen von AVL-B�umen.
+Bei gegebener H�he 18:
+								   
+	 minimale Anzahl Knoten: 6764.
+								   
+	 maximale Anzahl Knoten: 262143
+Bei gegebener Anzahl an Knoten 250:
+								   
+	 minimale H�he: 7.
+								   
+	 maximale H�he: 11
+Durchschnittliche Balancefehler: 1.54
+								   
+	 maximaler Balancefehler: 13.
+								   
+ok

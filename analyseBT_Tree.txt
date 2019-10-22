@@ -1,0 +1,17 @@
+analyseBT:analyseBT({100,3,{50,2,{25,1,{},{}},{}},{125,2,{},{150,1,{},{}}}}).
+Ausgaben beziehen sich auf die Rahmenbedingungen von AVL-B�umen.
+Bei gegebener H�he 3:
+								   
+	 minimale Anzahl Knoten: 4.
+								   
+	 maximale Anzahl Knoten: 7
+Bei gegebener Anzahl an Knoten 5:
+								   
+	 minimale H�he: 2.
+								   
+	 maximale H�he: 3
+Durchschnittliche Balancefehler: 0.4
+								   
+	 maximaler Balancefehler: 1.
+								   
+ok
